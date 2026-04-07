@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\1. CS\\HoVanHoang_WebBanHang\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5F821FEA-58CE-5D06-27CC-14245551AA8F}|HoVanHoang_WebBanHang.csproj|d:\\1. cs\\hovanhoang_webbanhang\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F821FEA-58CE-5D06-27CC-14245551AA8F}|HoVanHoang_WebBanHang.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5F821FEA-58CE-5D06-27CC-14245551AA8F}|HoVanHoang_WebBanHang.csproj|d:\\1. cs\\hovanhoang_webbanhang\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5F821FEA-58CE-5D06-27CC-14245551AA8F}|HoVanHoang_WebBanHang.csproj|solutionrelative:views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -35,19 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\1. CS\\HoVanHoang_WebBanHang\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\1. CS\\HoVanHoang_WebBanHang\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T15:15:28.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\1. CS\\HoVanHoang_WebBanHang\\Views\\SanPham\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\SanPham\\Index.cshtml",
               "ToolTip": "D:\\1. CS\\HoVanHoang_WebBanHang\\Views\\SanPham\\Index.cshtml",
               "RelativeToolTip": "Views\\SanPham\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-07T14:58:25.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SanPhamController.cs",
               "DocumentMoniker": "D:\\1. CS\\HoVanHoang_WebBanHang\\Controllers\\SanPhamController.cs",
               "RelativeDocumentMoniker": "Controllers\\SanPhamController.cs",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "Controllers\\SanPhamController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T14:54:04.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-07T14:54:04.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\1. CS\\HoVanHoang_WebBanHang\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -68,8 +84,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T14:17:41.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-07T14:17:41.668Z"
             }
           ]
         }

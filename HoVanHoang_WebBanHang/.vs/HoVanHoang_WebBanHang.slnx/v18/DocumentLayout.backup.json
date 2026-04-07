@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\1. CS\\HoVanHoang_WebBanHang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F821FEA-58CE-5D06-27CC-14245551AA8F}|HoVanHoang_WebBanHang.csproj|d:\\1. cs\\hovanhoang_webbanhang\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5F821FEA-58CE-5D06-27CC-14245551AA8F}|HoVanHoang_WebBanHang.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5F821FEA-58CE-5D06-27CC-14245551AA8F}|HoVanHoang_WebBanHang.csproj|d:\\1. cs\\hovanhoang_webbanhang\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5F821FEA-58CE-5D06-27CC-14245551AA8F}|HoVanHoang_WebBanHang.csproj|solutionrelative:views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F821FEA-58CE-5D06-27CC-14245551AA8F}|HoVanHoang_WebBanHang.csproj|d:\\1. cs\\hovanhoang_webbanhang\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F821FEA-58CE-5D06-27CC-14245551AA8F}|HoVanHoang_WebBanHang.csproj|solutionrelative:controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\1. CS\\HoVanHoang_WebBanHang\\Controllers\\SanPhamController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\SanPhamController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F821FEA-58CE-5D06-27CC-14245551AA8F}|HoVanHoang_WebBanHang.csproj|d:\\1. cs\\hovanhoang_webbanhang\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F821FEA-58CE-5D06-27CC-14245551AA8F}|HoVanHoang_WebBanHang.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\1. CS\\HoVanHoang_WebBanHang\\Controllers\\DonHangController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\DonHangController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\1. CS\\HoVanHoang_WebBanHang\\Controllers\\KhachHangController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\KhachHangController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\1. CS\\HoVanHoang_WebBanHang\\Controllers\\DanhMucController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\DanhMucController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F821FEA-58CE-5D06-27CC-14245551AA8F}|HoVanHoang_WebBanHang.csproj|d:\\1. cs\\hovanhoang_webbanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,44 +51,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\1. CS\\HoVanHoang_WebBanHang\\Views\\SanPham\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\SanPham\\Index.cshtml",
+              "ToolTip": "D:\\1. CS\\HoVanHoang_WebBanHang\\Views\\SanPham\\Index.cshtml",
+              "RelativeToolTip": "Views\\SanPham\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T15:45:42.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "D:\\1. CS\\HoVanHoang_WebBanHang\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SanPhamController.cs",
+              "ToolTip": "D:\\1. CS\\HoVanHoang_WebBanHang\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "Controllers\\SanPhamController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T15:44:34.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DonHangController.cs",
+              "DocumentMoniker": "D:\\1. CS\\HoVanHoang_WebBanHang\\Controllers\\DonHangController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DonHangController.cs",
+              "ToolTip": "D:\\1. CS\\HoVanHoang_WebBanHang\\Controllers\\DonHangController.cs",
+              "RelativeToolTip": "Controllers\\DonHangController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T15:37:05.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "D:\\1. CS\\HoVanHoang_WebBanHang\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "Controllers\\KhachHangController.cs",
+              "ToolTip": "D:\\1. CS\\HoVanHoang_WebBanHang\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "Controllers\\KhachHangController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T15:35:33.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DanhMucController.cs",
+              "DocumentMoniker": "D:\\1. CS\\HoVanHoang_WebBanHang\\Controllers\\DanhMucController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DanhMucController.cs",
+              "ToolTip": "D:\\1. CS\\HoVanHoang_WebBanHang\\Controllers\\DanhMucController.cs",
+              "RelativeToolTip": "Controllers\\DanhMucController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T15:33:07.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\1. CS\\HoVanHoang_WebBanHang\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\1. CS\\HoVanHoang_WebBanHang\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-07T15:15:28.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\1. CS\\HoVanHoang_WebBanHang\\Views\\SanPham\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\SanPham\\Index.cshtml",
-              "ToolTip": "D:\\1. CS\\HoVanHoang_WebBanHang\\Views\\SanPham\\Index.cshtml",
-              "RelativeToolTip": "Views\\SanPham\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-07T14:58:25.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SanPhamController.cs",
-              "DocumentMoniker": "D:\\1. CS\\HoVanHoang_WebBanHang\\Controllers\\SanPhamController.cs",
-              "RelativeDocumentMoniker": "Controllers\\SanPhamController.cs",
-              "ToolTip": "D:\\1. CS\\HoVanHoang_WebBanHang\\Controllers\\SanPhamController.cs",
-              "RelativeToolTip": "Controllers\\SanPhamController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T14:54:04.205Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\1. CS\\HoVanHoang_WebBanHang\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

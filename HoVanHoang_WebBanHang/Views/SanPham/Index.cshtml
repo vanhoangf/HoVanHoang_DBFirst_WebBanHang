@@ -1,0 +1,32 @@
+﻿@* Khai báo kiểu dữ liệu danh sách Sản Phẩm nhận từ Controller *@
+@model IEnumerable<HoVanHoang_WebBanHang.Models.SanPham>
+
+@{
+    ViewData["Title"] = "Danh sách sản phẩm";
+}
+
+<h2 class="mt-4 mb-3">Danh Sách Sản Phẩm</h2>
+
+<table class="table table-bordered table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>ID</th>
+            <th>Tên Sản Phẩm</th>
+            <th>Danh Mục</th>
+            <th>Giá Tiền</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.TenSanPham</td>
+                @* Hiển thị Tên Danh Mục (nếu có) *@
+                <td>@(item.DanhMuc != null ? item.DanhMuc.TenDanhMuc : "Không có")</td>
+                @* Format giá tiền cho đẹp *@
+                <td>@item.Gia.ToString("#,##0") VNĐ</td>
+            </tr>
+        }
+    </tbody>
+</table>
